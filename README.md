@@ -4,11 +4,11 @@ Um programa simples de linha de comando desenvolvido em **Python 3** que recebe 
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 A finalidade deste programa é calcular e imprimir os dez primeiros múltiplos de um número inteiro informado pelo usuário. Ele foi desenvolvido utilizando apenas recursos nativos do Python, sem a necessidade de instalar bibliotecas ou pacotes externos.
 
-### 📂 Estrutura de Arquivos
+###  Estrutura de Arquivos
 
 * `main.py` — Código-fonte principal do programa.
 * `LICENSE` — Licença MIT do projeto (Copyright © 2026 Neps Academy).
@@ -16,7 +16,7 @@ A finalidade deste programa é calcular e imprimir os dez primeiros múltiplos d
 
 ---
 
-## ⚙️ Pré-requisitos e Instalação
+##  Pré-requisitos e Instalação
 
 Para executar este programa, você precisa ter instalado em seu computador:
 
@@ -27,7 +27,7 @@ Não há dependências externas para instalar via `pip`.
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Opção 1: Pelo Terminal / Prompt de Comando
 1. Extraia os arquivos da pasta compactada.
